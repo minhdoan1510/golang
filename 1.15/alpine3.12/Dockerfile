@@ -25,7 +25,7 @@ RUN set -eux; \
 		gnupg \
 		go \
 		musl-dev \
-		g
+		git \
 		openssl \
 	; \
 	export \
